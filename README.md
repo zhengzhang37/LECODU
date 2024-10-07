@@ -2,3 +2,5 @@
 
 The codes will be available soon.
 
+[Pretrained LNL AI models] InstanceGM(https://github.com/arpit2412/InstanceGM)
+
