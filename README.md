@@ -2,5 +2,5 @@
 
 The codes will be available soon.
 
-[Pretrained LNL AI models] InstanceGM(https://github.com/arpit2412/InstanceGM)
+# [Pretrained LNL AI models] [InstanceGM](https://github.com/arpit2412/InstanceGM), [Promix](https://github.com/Justherozen/ProMix), and [NSHE](https://github.com/bupt-ai-cz/HSA-NRL)
 
