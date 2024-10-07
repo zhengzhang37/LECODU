@@ -1,7 +1,7 @@
 # [ECCV 2024] Learning to Complement or Defer to Multiple Users (LECODU) 
 
 This repo is the official implementation of our paper [Learning to Complement or Defer to Multiple Users (LECODU)](https://arxiv.org/abs/2407.07003).
-![image](https://github.com/zhengzhang37/LECODU/blob/main/LECODU.pdf)
+![image](https://github.com/zhengzhang37/LECODU/blob/main/LECODU.png)
 
 # Citation
 
