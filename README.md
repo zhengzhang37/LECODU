@@ -1,6 +1,10 @@
 # [ECCV 2024] Learning to Complement or Defer to Multiple Users (LECODU) 
 
-The codes will be available soon.
+This repo is the official implementation of our paper [Learning to Complement or Defer to Multiple Users (LECODU)](https://arxiv.org/abs/2407.07003).
+
+# Citation
+
+If you use this code/data for your research, please cite our paper [Learning to Complement or Defer to Multiple Users (LECODU)](https://arxiv.org/abs/2407.07003).
 
 ## Pretrained LNL AI models 
 
