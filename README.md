@@ -5,7 +5,7 @@ This repo is the official implementation of our paper [Learning to Complement or
 
 # Citation
 
-If you use this code/data for your research, please cite our paper [Learning to Complement or Defer to Multiple Users (LECODU)](https://arxiv.org/abs/2407.07003).
+If you use this code/data for your research, please cite our paper [Learning to Complement or Defer to Multiple Users (LECODU)](https://link.springer.com/chapter/10.1007/978-3-031-72992-8_9).
 
 ```bibtex
 @article{zhang2024learning,
